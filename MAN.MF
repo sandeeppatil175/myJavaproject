@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+
+Name: project/server/product.ser
+Enterprise-Bean: True
+
+Name: project/server/quotation.ser
+Enterprise-Bean: True
+
+Name: project/server/catalog.ser
+Enterprise-Bean: True
+
+Name: project/server/account.ser
+Enterprise-Bean: True
+
+Name: project/client/confirm.ser
+Enterprise-Bean: True
+
+
+
+

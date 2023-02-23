@@ -1,0 +1,2 @@
+create table cash(cashinhand number(12,2))
+/

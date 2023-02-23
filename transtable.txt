@@ -1,0 +1,3 @@
+create table trans (logid varchar2(15) constraint chaid_pk references account,
+tdate date,tamount number(10,2))
+/

@@ -1,0 +1,3 @@
+ create table product (pid varchar2(20) primary key,pname varchar2(15),
+ pprice number(10,2), capacity varchar2(15), unitsofmeasure varchar2(15),producer varchar2(20))
+/

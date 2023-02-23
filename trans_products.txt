@@ -1,0 +1,2 @@
+create table trans_products(utid varchar2(10) primary key ,logid varchar2(15),products varchar2(40),tamount
+number(10,2),tdate date)

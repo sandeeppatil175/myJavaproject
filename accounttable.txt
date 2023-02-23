@@ -1,0 +1,3 @@
+ create table account1 (logid varchar2(15) primary key ,login varchar2(15),passwd varchar2(15),
+ crbal number(10,2),dbbal number(10,2),doj date)
+/
